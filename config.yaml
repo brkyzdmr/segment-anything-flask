@@ -1,0 +1,4 @@
+checkpoint: 'models\sam_vit_h_4b8939.pth'
+onnx_model: 'models\sam_onnx_quantized_example.onnx'
+images_folder: 'static\images'
+model_type: 'default'
