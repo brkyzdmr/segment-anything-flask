@@ -1,6 +1,6 @@
 # Flask Application of Meta's Segment Anything Model
 
-**[Official Project Page]("https://github.com/facebookresearch/segment-anything.git")**
+**Official Project Page: https://github.com/facebookresearch/segment-anything.git**
 
 
 This is a Flask application that implements Meta's Segment Anything Model for segmenting images by mouse click in real-time performance. There are 3 images in the project, they will sequentially load, and you will interact with them by mouse click.
